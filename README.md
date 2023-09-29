@@ -1,5 +1,5 @@
 ## Hello!
-### Check out my cool stats
+### Check out my stats
 
 
 
