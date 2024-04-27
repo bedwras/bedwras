@@ -1,4 +1,4 @@
-## Hello!
+## Hello! 👋
 ### Check out my stats
 
 
