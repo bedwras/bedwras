@@ -1,5 +1,5 @@
 ## Hello! 👋
-### Check out my stats below
+### Check out my profile stats!
 
 [![bedwras's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedwras)](https://github.com/bedwras/github-readme-stats)
 
